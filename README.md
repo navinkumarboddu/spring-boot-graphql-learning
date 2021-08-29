@@ -2,9 +2,9 @@
 Learning and experimenting GraphQL implementation using Spring Boot
 
 #*What is GraphQL ?*
-a. GraphQL is a data query language. 
-b. It was created by Facebook. 
-c. GraphQL provides a new API standard similar to REST.
+1. GraphQL is a data query language.
+2. It was created by Facebook. 
+3. GraphQL provides a new API standard similar to REST.
 
 #*Challenges with REST API:*
 1. We get Fixed Response

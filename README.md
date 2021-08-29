@@ -32,3 +32,17 @@ Of course, we can design multiple endpoints providing multiple views of the data
 
 GraphQL simplifies this process by getting all the data your app needs in a single request. In GraphQL, the consumers can choose the data that is needed, by having all data in a single endpoint. Thus, the GraphQL server exposes a single endpoint and enables the client to request precisely the data it requires. Requests normally use POST method and use a JSON syntax to describe the data queried for.
 
+
+
+
+
+#*App Configuration Details*
+
+> Database Configuration
+- Downloaded sample movie db from [MySQL link](https://dev.mysql.com/doc/index-other.html)
+- Database schema name : graphQL
+- Tables : 
+    1. film
+    2. actor
+    3. film_actor
+    

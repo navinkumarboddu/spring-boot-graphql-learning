@@ -39,7 +39,7 @@ GraphQL simplifies this process by getting all the data your app needs in a sing
 #*App Configuration Details*
 
 > Database Configuration
-- Downloaded sample movie db from [MySQL link](https://dev.mysql.com/doc/index-other.html)
+- Downloaded sample movie db from [MySQL link](https://github.com/Narven/movies-api-nodejs/blob/develop/mysql-dump/movies.sql)
 - Database schema name : graphQL
 - Tables : 
     1. film

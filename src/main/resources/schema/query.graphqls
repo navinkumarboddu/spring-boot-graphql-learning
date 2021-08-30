@@ -1,0 +1,13 @@
+type Query {
+	movie(id : Long) : MovieResponse
+}
+
+type MovieResponse{
+	id : Long
+	title : String
+	budget : String
+	homepage : String
+	overview : String
+	overview : String 
+	popularity : String
+}
